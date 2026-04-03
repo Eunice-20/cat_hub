@@ -6,7 +6,7 @@ L'objetif de ce projet était de mettre en pratique nos compétences acquise en 
 
 ## Explication & Fonctionnement Programme
 
-### Introfuction
+### Introduction
 
 
 ## Description
