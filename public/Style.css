@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20201209/pngtree-simple-cute-hand-drawn-cat-paw-background-image_503841.jpg");
+}
+
+.header {   
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    height: 115px;
+    position: relative;
+}
+
+.img {
+    height: 160px;
+}
+
+#Img  img{
+    position: absolute; 
+    top: 7%; 
+    width: 30px;
+    right: 190px; 
+}
+
+#score {
+    font-size: 32px;
+    color: #ffffff;
+    font-family: 'Baskerville'; 
+    position: absolute; 
+    top: 7%; 
+    left: 90px; 
+}
+
+#lives {
+
+    font-size: 32px;
+    color: #ffffff;
+    font-family: 'Baskerville'; 
+    position: absolute; 
+    top: 7%; 
+    right: 60px; 
+    
+  }
+
+  #victories{
+
+    font-size: 32px;
+    color: #ffffff;
+    font-family: 'Baskerville'; 
+    position: absolute; 
+    top: 7%; 
+    right: 190px; 
+    
+  }
+
+  #About{
+
+    font-size: 32px;
+    color: #ffffff;
+    font-family: 'Baskerville'; 
+    position: absolute; 
+    top: 7%; 
+    right: 1130px; 
+    
+  }
+
+
+
+

@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "name": "cat_hub",
+  "version": "1.0.0",
+  "description": "L'objetif de ce projet était de mettre en pratique nos compétences acquise en programmation javascript en développant un jeux WEB. La tâche a été d'utiliser **Phaser** pour la creationde se jeux web, en s'assurant qu'elle implémente le jeu avec succès.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
